@@ -1,3 +1,3 @@
 # text-viewer
 
-A description of this project.
+A GTK application for text viewer (only for learning purpose).
