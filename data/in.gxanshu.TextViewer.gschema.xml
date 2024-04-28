@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="text-viewer">
+	<schema id="in.gxanshu.TextViewer" path="/in/gxanshu/TextViewer/">
+	</schema>
+</schemalist>

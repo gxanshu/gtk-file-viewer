@@ -1,0 +1,6 @@
+data/in.gxanshu.TextViewer.desktop.in
+data/in.gxanshu.TextViewer.metainfo.xml.in
+data/in.gxanshu.TextViewer.gschema.xml
+src/main.c
+src/text-viewer-window.c
+src/text-viewer-window.ui
